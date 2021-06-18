@@ -65,7 +65,7 @@ footer {
   border-radius: 9px;
   font-family: 'Lobster', cursive;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 2rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   border:0px;
@@ -102,7 +102,7 @@ footer {
     color: #EEEEEE;
     text-align: center;
     font-family: 'Indie Flower', cursive;
-    font-size:3rem;
+    font-size:2rem;
     bottom: 0;
   
   }
