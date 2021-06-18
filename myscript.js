@@ -54,3 +54,15 @@ if(n>m){
 if(n<m){
     document.querySelector(".ref").innerHTML="Player2 Wins!!";
 }
+
+if (window.matchMedia("(min-width: 998px)").matches) {
+    /* The viewport is less than, or equal to, 700 pixels wide */
+    var myobj = document.querySelector(".nl");
+    myobj.remove();
+  }
+  else{
+    document.querySelector(".nl").innerHTML = "<br>";
+  
+  }
+
+  

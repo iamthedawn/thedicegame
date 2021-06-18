@@ -49,3 +49,16 @@ footer {
   font-size:1.5rem;
 
 }
+@media (max-width:998px){
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  .dice img{
+    width:100%;
+  }
+  .dice p {
+    font-size:3rem;
+  }
+}
